@@ -1,0 +1,22 @@
+	
+@font-face { font-family: ProximaNova; src: url('/fonts/proximanova-reg-webfont.woff'); }
+html, body { margin: 0 auto; min-height: 100%;}
+body {
+	font-family: ProximaNova, 'Helvetica Neue', Arial, Verdana;
+	font-size: 13px; 
+	color: #222;
+	
+	background-repeat: repeat;
+	/* Safari 4-5, Chrome 1-9 */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(white), to(#eee));
+    /* Safari 5.1, Chrome 10+ */
+    background: -webkit-linear-gradient(top, white, #eee);
+    background: -moz-linear-gradient(top, white, #eee);
+}
+
+a { color: #4ba5c7;}
+.container{ padding: 20px 15px; margin: 0 auto;}
+.container p{ font-size: 16px;}
+
+h1 { font-size: 2em; margin: .67em 0; }
+
