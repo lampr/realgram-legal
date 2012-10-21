@@ -1,5 +1,5 @@
 	
-@font-face { font-family: ProximaNova; src: url('/fonts/proximanova-reg-webfont.woff'); }
+@font-face { font-family: ProximaNova; src: url('fonts/proximanova-reg-webfont.woff'); }
 html, body { margin: 0 auto; min-height: 100%;}
 body {
 	font-family: ProximaNova, 'Helvetica Neue', Arial, Verdana;
